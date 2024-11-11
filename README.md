@@ -1,4 +1,5 @@
 # MUST TO READ
+
 This project based on 'NRF CONNECT' SDK v2.7.0 && toolchains v2.7.0.
 ---
 1. 'coap_client_v0' should be flashed onto A Nordic NRF52840 board without soil sensor.
