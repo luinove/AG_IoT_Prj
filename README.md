@@ -11,3 +11,11 @@ This project based on 'NRF CONNECT' SDK v2.7.0 && toolchains v2.7.0.
 
 IN NRF CONNECT SDK2.7.0 the modbus module has a little timing issue.
 SO strongly recommand repalce the contents of the 'modbus' folder with those found in the 'modbus 2.7.0_2.7.0  can work code' folder.
+
+---
+
+Pin
+|From|To|
+|-|-|
+|nrf52840DK P1.01 | ttl_485 TXD|
+|nrf52840DK P1.02 | ttl_485 RXD|
