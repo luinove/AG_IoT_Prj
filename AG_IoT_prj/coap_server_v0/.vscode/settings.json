@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "ot_coap_utils.h": "c",
+        "message.h": "c"
+    }
+}

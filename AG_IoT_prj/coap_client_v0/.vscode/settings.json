@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "coap_client_utils.h": "c",
+        "ot_coap_utils.h": "c"
+    }
+}
